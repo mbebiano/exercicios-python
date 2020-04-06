@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+
+'''number = int(input('Press number of funcionary: '))
+hours = int(input('Press hours on work of funcionary: '))
+moneyperhour = float(input('Press moneyperhour of funcionary: '))'''
+'''salary = 100 * 5.5
+print('NUMBER = %d \nSALARY = U$ %.2f'%(25,salary))
+print('SALARY = U$ %.2f'%(salary))'''
+
+a = 2**3
+print('soma=', a)
