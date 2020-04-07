@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f1f03a87-5901-4ab7-8145-8d60e9d07901" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zonadeTestes.py" beforeDir="false" afterPath="$PROJECT_DIR$/zonadeTestes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +26,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Semana7Exercicios2">
-    <configuration name="JogoNIM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.RemoverReptidos">
+    <configuration name="RemoveRepitidos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,7 +39,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JogoNIM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RemoveRepitidos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -47,7 +48,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Semana7Exercicios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoverReptidos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semana7Exercicios.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RemoverReptidos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Semana7Exercicios2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="somaelementos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semana7Exercicios2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/somaelementos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vogal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="somarelementos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vogal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/somarelementos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Semana7Exercicios2" />
-        <item itemvalue="Python.Semana7Exercicios" />
-        <item itemvalue="Python.JogoNIM" />
+        <item itemvalue="Python.RemoverReptidos" />
+        <item itemvalue="Python.somarelementos" />
+        <item itemvalue="Python.RemoveRepitidos" />
+        <item itemvalue="Python.somaelementos" />
         <item itemvalue="Python.zonadeTestes" />
-        <item itemvalue="Python.vogal" />
       </list>
     </recent_temporary>
   </component>
@@ -163,38 +164,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="435" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585258622800" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1586230716518">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1586269911750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586230716518" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1586230716518">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586269911750" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1586269911750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586230716518" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1586230716517">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586269911750" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1586269911750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586230716517" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1586230716518">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586269911750" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1586269911750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586230716518" />
-    <state width="1345" height="185" key="GridCell.Tab.1.bottom" timestamp="1586230705780">
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586269911750" />
+    <state width="1345" height="185" key="GridCell.Tab.1.bottom" timestamp="1586266201919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586230705780" />
-    <state width="1345" height="185" key="GridCell.Tab.1.center" timestamp="1586230705780">
+    <state width="1345" height="185" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586266201919" />
+    <state width="1345" height="185" key="GridCell.Tab.1.center" timestamp="1586266201919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586230705780" />
-    <state width="1345" height="185" key="GridCell.Tab.1.left" timestamp="1586230705780">
+    <state width="1345" height="185" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586266201919" />
+    <state width="1345" height="185" key="GridCell.Tab.1.left" timestamp="1586266201919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586230705780" />
-    <state width="1345" height="185" key="GridCell.Tab.1.right" timestamp="1586230705780">
+    <state width="1345" height="185" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586266201919" />
+    <state width="1345" height="185" key="GridCell.Tab.1.right" timestamp="1586266201919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586230705780" />
+    <state width="1345" height="185" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586266201919" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586207287973">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
