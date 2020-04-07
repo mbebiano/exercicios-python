@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1f03a87-5901-4ab7-8145-8d60e9d07901" name="Default Changelist" comment="" />
+    <list default="true" id="f1f03a87-5901-4ab7-8145-8d60e9d07901" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,11 @@
   <component name="FavoritesManager">
     <favorites_list name="exerciciocoursera" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZdPR3RkvRNZ0SzrOCx49fBLu4j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -19,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.JogoNIM">
+  <component name="RunManager" selected="Python.Semana7Exercicios2">
     <configuration name="JogoNIM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -41,7 +47,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MaiorPrimo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Semana7Exercicios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MaiorPrimo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semana7Exercicios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fizzbuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Semana7Exercicios2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fizzbuzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semana7Exercicios2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Semana7Exercicios2" />
+        <item itemvalue="Python.Semana7Exercicios" />
         <item itemvalue="Python.JogoNIM" />
         <item itemvalue="Python.zonadeTestes" />
         <item itemvalue="Python.vogal" />
-        <item itemvalue="Python.MaiorPrimo" />
-        <item itemvalue="Python.fizzbuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -157,42 +163,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="435" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585258622800" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1586102399125">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1586230716518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586102399125" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1586102399125">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586230716518" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1586230716518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586102399125" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1586102399125">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586230716518" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1586230716517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586102399125" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1586102399125">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586230716517" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1586230716518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586102399125" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1585759681734">
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586230716518" />
+    <state width="1345" height="185" key="GridCell.Tab.1.bottom" timestamp="1586230705780">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585759681734" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1585759681734">
+    <state width="1345" height="185" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586230705780" />
+    <state width="1345" height="185" key="GridCell.Tab.1.center" timestamp="1586230705780">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585759681734" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1585759681734">
+    <state width="1345" height="185" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586230705780" />
+    <state width="1345" height="185" key="GridCell.Tab.1.left" timestamp="1586230705780">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585759681734" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1585759681734">
+    <state width="1345" height="185" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586230705780" />
+    <state width="1345" height="185" key="GridCell.Tab.1.right" timestamp="1586230705780">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585759681734" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586101877832">
+    <state width="1345" height="185" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586230705780" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586207287973">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586101877832" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586207287973" />
     <state x="254" y="101" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585309148276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -224,6 +230,11 @@
           <url>file://$PROJECT_DIR$/JogoNIM.py</url>
           <line>53</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Semana7Exercicios2.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
