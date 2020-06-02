@@ -11,5 +11,14 @@ for nome in nomes:
 
 print(contador)'''
 
-z = False
-print(type(z))
+orgilist = 99
+print(orgilist)
+newlist = [orgilist] * 3
+print(newlist)
+
+print(newlist)
+newlistz = [[44, 22, 51, 91],[44, 22, 51, 91],[44, 22, 51, 91]]
+print(newlistz)
+newlistz[1]= 99
+
+print(newlistz)

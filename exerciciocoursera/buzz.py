@@ -1,9 +1,16 @@
 #Verificar se um número é Divisível por 5
+import random
 
-Cond = int(input('Digite o número a ser verificado: '))
+def mensagemRandomizada():
+    arquivo = open('mensagensEnvio.txt', 'r')
+    lista = arquivo.readlines()  # readlinesssssss
+    arquivo.close()
+    mensagemAleatoria=random.choice(lista)
+    return mensagemAleatoria;
 
-if Cond%5 == 0:
-    print('Buzz')
 
-else:
-    print(Cond)
+i=0;
+
+while(i<10):
+    print(tempoAleatorio())
+    i+=1;

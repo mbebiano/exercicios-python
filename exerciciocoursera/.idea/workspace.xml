@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f1f03a87-5901-4ab7-8145-8d60e9d07901" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/buzz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zonadeTestes.py" beforeDir="false" afterPath="$PROJECT_DIR$/zonadeTestes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +27,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.RemoverReptidos">
-    <configuration name="RemoveRepitidos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.restsms">
+    <configuration name="buzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,7 +40,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RemoveRepitidos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -48,7 +49,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RemoverReptidos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/rest_sms_gateway" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RemoverReptidos.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/rest_sms_gateway/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="somaelementos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="restsms (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/rest_sms_gateway" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/somaelementos.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/rest_sms_gateway/restsms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="somarelementos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="restsms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/somarelementos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/restsms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zonadeTestes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciocoursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zonadeTestes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste2020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.RemoverReptidos" />
-        <item itemvalue="Python.somarelementos" />
-        <item itemvalue="Python.RemoveRepitidos" />
-        <item itemvalue="Python.somaelementos" />
-        <item itemvalue="Python.zonadeTestes" />
+        <item itemvalue="Python.restsms" />
+        <item itemvalue="Python.buzz" />
+        <item itemvalue="Python.teste2020" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.restsms (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -164,42 +165,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="435" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585258622800" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1586269911750">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1591046678206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586269911750" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1586269911750">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591046678206" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1591046678205">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586269911750" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1586269911750">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591046678205" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1591046678204">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586269911750" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1586269911750">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591046678204" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1591046678205">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586269911750" />
-    <state width="1345" height="185" key="GridCell.Tab.1.bottom" timestamp="1586266201919">
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591046678205" />
+    <state width="1345" height="185" key="GridCell.Tab.1.bottom" timestamp="1586382619668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586266201919" />
-    <state width="1345" height="185" key="GridCell.Tab.1.center" timestamp="1586266201919">
+    <state width="1345" height="185" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586382619668" />
+    <state width="1345" height="185" key="GridCell.Tab.1.center" timestamp="1586382619668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586266201919" />
-    <state width="1345" height="185" key="GridCell.Tab.1.left" timestamp="1586266201919">
+    <state width="1345" height="185" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586382619668" />
+    <state width="1345" height="185" key="GridCell.Tab.1.left" timestamp="1586382619667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586266201919" />
-    <state width="1345" height="185" key="GridCell.Tab.1.right" timestamp="1586266201919">
+    <state width="1345" height="185" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586382619667" />
+    <state width="1345" height="185" key="GridCell.Tab.1.right" timestamp="1586382619668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586266201919" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586207287973">
+    <state width="1345" height="185" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586382619668" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1590936804906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586207287973" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590936804906" />
     <state x="254" y="101" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585309148276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
